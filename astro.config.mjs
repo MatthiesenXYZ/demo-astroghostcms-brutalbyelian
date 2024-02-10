@@ -9,6 +9,7 @@ export default defineConfig({
 	integrations: [
 		UnoCSS({ injectReset: true }),
 		ghostcms({
+			disableSatoriOG: true,
 			theme: "@matthiesenxyz/astro-ghostcms-brutalbyelian",
 			ghostURL: "https://ghostdemo.matthiesen.xyz",
 		})
