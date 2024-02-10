@@ -13,9 +13,4 @@ export default defineConfig({
 			ghostURL: "https://ghostdemo.matthiesen.xyz",
 		})
 	],
-	vite: {
-	  optimizeDeps: {
-		exclude: ['@resvg/resvg-js'],
-	  },
-	},
 });
