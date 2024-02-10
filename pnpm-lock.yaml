@@ -9,8 +9,8 @@ dependencies:
     specifier: ^3.2.0
     version: 3.2.1(sass@1.70.0)(typescript@5.3.3)
   '@matthiesenxyz/astro-ghostcms-brutalbyelian':
-    specifier: 0.0.1-dev01
-    version: 0.0.1-dev01(astro@4.3.5)(postcss@8.4.35)(vite@5.1.1)
+    specifier: 0.0.1-dev02
+    version: 0.0.1-dev02(astro@4.3.5)(postcss@8.4.35)(vite@5.1.1)
   '@unocss/astro':
     specifier: ^0.57.7
     version: 0.57.7(vite@5.1.1)
@@ -929,8 +929,8 @@ packages:
       read-yaml-file: 1.1.0
     dev: false
 
-  /@matthiesenxyz/astro-ghostcms-brutalbyelian@0.0.1-dev01(astro@4.3.5)(postcss@8.4.35)(vite@5.1.1):
-    resolution: {integrity: sha512-HNXL2e1Azwb6cgxcf00mlqd1vCHEsWaJT1zqYA7CJafaHWr2tUy/Klfz/L0gJiWUA8jEL2stM2Tqw5qLMP9c8g==}
+  /@matthiesenxyz/astro-ghostcms-brutalbyelian@0.0.1-dev02(astro@4.3.5)(postcss@8.4.35)(vite@5.1.1):
+    resolution: {integrity: sha512-q4A35di2/ptRbZf9BYAhiUcSpFvTLWKn7IDKjoMQ714lMK3jti8mhMF16Er8qnwi59Wc0RSU6NoAgaPWLNbWEA==}
     peerDependencies:
       astro: ^4.2.0
     dependencies:
