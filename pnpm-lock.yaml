@@ -25,6 +25,9 @@ devDependencies:
   '@unocss/reset':
     specifier: ^0.57.7
     version: 0.57.7
+  postcss:
+    specifier: 8.4.35
+    version: 8.4.35
   typescript:
     specifier: ^5.3.3
     version: 5.3.3
