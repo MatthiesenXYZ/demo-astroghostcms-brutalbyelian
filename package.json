@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "astro": "^4.3.2",
-    "@matthiesenxyz/astro-ghostcms": "3.2.0",
-    "@matthiesenxyz/astro-ghostcms-brutalbyelian": "0.0.1-dev07",
+    "@matthiesenxyz/astro-ghostcms": "3.2.1",
+    "@matthiesenxyz/astro-ghostcms-brutalbyelian": "0.0.1-dev08",
     "@unocss/astro": "^0.57.7"
   },
   "devDependencies": {
